@@ -1,0 +1,23 @@
+
+.mealsPage {
+  height: 100%;
+  background-image: url('/src/assets/fitness.png');
+}
+  .dropdown:hover>.dropdown-menu{
+    display: block;
+  }
+  .dropdown>.dropdown-toggle{
+      pointer-events: none;
+  }
+  /* main{
+    background-image: url("images/fitns.png");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
+  .RoutinePlan {
+    width: 140%;
+    height: 230px;
+    overflow: auto;
+    padding-left: 20px;
+  }
